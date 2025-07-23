@@ -11,8 +11,8 @@ header
     width: min-content;
     height: min-content;
     position:absolute;
-    top: 0px;
-    left: 0px;
+    top: 50vh;
+    left: 50vw;
     margin: 0 0 0 0;  
     z-index: 1;;  
 }
